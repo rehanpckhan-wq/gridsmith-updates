@@ -1,0 +1,29 @@
+{
+  "formatVersion": 1,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "publishedAt": "2026-11-10T14:36:15.338662+00:00",
+  "notes": [
+    "Initial public release of Gridsmith v1.0.0",
+    "676 bundled MLBB skins across 5 rarity tiers",
+    "Color Lab GPU fragment shader grading, Split & Merge studios",
+    "Offline-first .gsbackup format"
+  ],
+  "apks": {
+    "arm64-v8a": {
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-arm64-v8a.apk",
+      "sha256": "be7d1244a1acbbdf27d454fe70c29be396d3a8de202a7e0c95eb6d97cf54be5a",
+      "bytes": 102182132
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-armeabi-v7a.apk",
+      "sha256": "c926ab6b07e040189808edd50093c4c41e4adf10dd06ce6f68efb02ba8b345ef",
+      "bytes": 100295740
+    },
+    "universal": {
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-universal.apk",
+      "sha256": "07c87b3ee7b97f9e7753a6c30692c5875c62fc88d8bab730dc141931da815b78",
+      "bytes": 146937356
+    }
+  }
+}
