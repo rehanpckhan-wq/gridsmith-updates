@@ -1,29 +1,31 @@
 {
   "formatVersion": 1,
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "publishedAt": "2026-11-10T14:57:36.194462+00:00",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "publishedAt": "2026-11-11T12:47:11.555501+00:00",
   "notes": [
-    "Initial public release of Gridsmith v1.0.0",
-    "676 bundled MLBB skins across 5 rarity tiers",
-    "Color Lab GPU fragment shader grading, Split & Merge studios",
-    "Offline-first .gsbackup format"
+    "New: Choose the grid or the pool when adding skins from the Library",
+    "New: Search your showcases and switch between 2-per-row, 3-per-row and list layouts",
+    "New: Zoom into the Merge preview",
+    "New: Expandable color controls in the Color Lab",
+    "Improved: Sharper, deeper zoom on big grids",
+    "Improved: Showcase thumbnails now work for sliced tiles"
   ],
   "apks": {
     "arm64-v8a": {
-      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-arm64-v8a.apk",
-      "sha256": "be7d1244a1acbbdf27d454fe70c29be396d3a8de202a7e0c95eb6d97cf54be5a",
-      "bytes": 102182132
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.1.0/Gridsmith-1.1.0-arm64-v8a.apk",
+      "sha256": "a849cb5fda0d366de83bada365e52799adf1b7646b6c2c3276988c4baa9cc822",
+      "bytes": 102314499
     },
     "armeabi-v7a": {
-      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-armeabi-v7a.apk",
-      "sha256": "c926ab6b07e040189808edd50093c4c41e4adf10dd06ce6f68efb02ba8b345ef",
-      "bytes": 100295740
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.1.0/Gridsmith-1.1.0-armeabi-v7a.apk",
+      "sha256": "f9c9a17d74b8763e2a27a225e4d688522c66a2d1e9fe1fba23dd1d6320a434ca",
+      "bytes": 100362571
     },
     "universal": {
-      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.0.0/Gridsmith-1.0.0-universal.apk",
-      "sha256": "07c87b3ee7b97f9e7753a6c30692c5875c62fc88d8bab730dc141931da815b78",
-      "bytes": 146937356
+      "url": "https://github.com/rehanpckhan-wq/gridsmith-updates/releases/download/v1.1.0/Gridsmith-1.1.0-universal.apk",
+      "sha256": "6bc5ae66f200cbc3edba7fda9b1b96b464aac8e967b1b7ed13a428648d95137c",
+      "bytes": 147266331
     }
   }
 }
